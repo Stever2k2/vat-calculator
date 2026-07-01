@@ -4,10 +4,16 @@
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 3px solid rgb(128, 0, 0);
   padding: 10px;
+  background-color: darkgrey;
 }
 
 .header{
   padding: 10px;
+}
+
+body{
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
